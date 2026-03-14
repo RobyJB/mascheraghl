@@ -1,0 +1,2 @@
+/* Reset only - all styling is inline in App.tsx */
+* { box-sizing: border-box; margin: 0; padding: 0; }
